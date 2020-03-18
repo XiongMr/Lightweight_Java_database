@@ -1,0 +1,7 @@
+tableName:
+course
+cno char20
+cname char20
+primary key:
+cno
+foreign key:

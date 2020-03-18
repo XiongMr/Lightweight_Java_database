@@ -1,0 +1,7 @@
+sno sname age sex 
+19215201 vivi 17 female 
+19215202 sunny 18 female 
+19215203 Bob 17 male 
+19215207 Alex 18 male 
+19215204 lily 16 female 
+19215206 Mary 17 female 
